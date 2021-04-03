@@ -1,4 +1,3 @@
-
 0000to2.com
 008ebay.com
 00xo2.xyz
@@ -1480,6 +1479,7 @@ accountpaypal.org
 accountplusnet.com
 accounts-gmail-login-user-servicelogin.com
 accounts-google-services.com
+accounts-mail-delivery.com
 accounts-noreplygoogle.com
 accountsc.com
 accountsgoogleservice.com
@@ -2825,6 +2825,7 @@ amazon-delivery.com
 amazon-delivery.ga
 amazon-delivery.gq
 amazon-delivery.ml
+amazon-delivery.site
 amazon-delivery.site
 amazon-deuy.date
 amazon-df.xyz
@@ -5597,6 +5598,7 @@ anywherethesunsetstravel.com
 ao2.biz
 ao210.com
 ao2trk.com
+aoai-delivery.online
 aoazon.com
 aobo2581.com
 aobo269.com
@@ -7628,6 +7630,7 @@ apppleid.com
 apprenti-sage.com
 apprentissage.corsica
 apprentissagevirtuel.com
+approve-delivery.com
 approvedin30dhl.com
 apps-google-play.com
 apps-sempreativo24horas.online
@@ -7676,6 +7679,7 @@ aragoogle.net
 arahiraoffice.com
 arambolhotelbooking.com
 aramedhl.com
+aramex-delivery.info
 arana.biz
 arana.cf
 arana.co.uk
@@ -8150,6 +8154,9 @@ arqos.com
 arqos.info
 arqos.net
 arqos.uk
+arrange-package-redelivery-attempt.com
+arrange-parcel-delivery.com
+arranged-delivery.com
 arrangeitmobilenotary.com
 arrazon.com
 arrgos.co.uk
@@ -11091,6 +11098,7 @@ billing-o2.com
 billing-office.com
 billing-quickbooks.com
 billing-spotify.com
+billing-subscription-online-delivery.xyz
 billingamazon.com
 billingamazon.gq
 billingamazon.online
@@ -12957,6 +12965,9 @@ careerintuitive.coach
 careintuit.com
 caremessages.xyz
 caresto2.com
+cargo-delivery.net
+cargo-services-delivery.com
+cargo-services-delivery.website
 cargo22.com
 cargo24.info
 cargo24.online
@@ -13366,6 +13377,7 @@ cheifapologyofficer.com
 cheifapologyofficers.com
 cheifspiritualofficer.com
 chelseaofficespace.com
+chen2004-delivery.com
 chenaultlawoffices.com
 cheneau-paysages44.com
 chensaics-gmail.com
@@ -14031,6 +14043,7 @@ codafone.co.uk
 codafone.com
 codenameapplesauce.xyz
 coderdojo2a.xyz
+codered-delivery.com
 codestudio29.com
 codethecurbs.com
 codethreeconstruction.com
@@ -14063,6 +14076,7 @@ colacro2020.com
 coldfusionextendedsupport.com
 coldplatescomedy.com
 colegiosanmartinsantander.com
+colispeed-delivery.com
 collection-royalmail.com
 collectionno2.com
 collector-dictionary.com
@@ -14079,6 +14093,7 @@ com-3dscured-google.com
 com-amazon.online
 com-apple-id.cloud
 com-appleid.support
+com-delivery.info
 com-facebook-cache.today
 com-google.store
 com-googlemail.com
@@ -14360,6 +14375,7 @@ contato-spotifyfatura22.com
 contentamazon.com
 contentmobilephone.com
 contexto2a.xyz
+continental-delivery.site
 continentalbooking.com
 continentalheritagefamilyoffice.com
 contineo2a.xyz
@@ -14463,6 +14479,7 @@ cosmosagenciadigital.com
 costaofryniobooking.host
 costco2022ea.com
 costco2go.online
+costxowater-delivery.com
 cosumo2021.com
 cotentrybuildingsociety.co.uk
 cottonapple.com
@@ -15309,6 +15326,7 @@ cryptoverbs.com
 crystalriverquickbooks.com
 crystals-herbs-oils.com
 cryto2crypto.com
+cs-amazon-delivery.com
 cs-amazon.xyz
 cs.accountants
 cs.biz
@@ -15593,6 +15611,7 @@ cyho2.site
 cyientmanufacturinglinkedin.com
 cyrano24promety.com
 cyrrys.co.uk
+cz-delivery.online
 czdhl.com
 czo219.icu
 czrbsy.com
@@ -15653,6 +15672,7 @@ daddysgirlnextdoor.com
 dadhlane.com
 dadnext.com
 daebay.com
+daf-corporation-delivery.website
 dafacebookhelp.com
 dage.biz
 dage.cf
@@ -15859,6 +15879,7 @@ dayonemassagetherapy.site
 daysinnextendedstayofeunice.com
 daythreelhr.com
 daytonoffice.net
+dba-delivery.site
 dbaudio2a.xyz
 dbay.cf
 dbay.co.uk
@@ -16123,6 +16144,7 @@ dedex.co.uk
 dedex.com
 dedex.info
 dedex.org
+dedicated-deliveryservice.com
 dedunext.com
 deebenhams.com
 deenhams.co.uk
@@ -16160,6 +16182,13 @@ deliciouspineapple.com
 deliver-dhl.com
 deliver-ee.com
 deliver-fedex.com
+deliver-fee-auth.com
+deliver-getaway.biz
+deliver-gourmet.com
+deliver-headache.xyz
+deliver-kit.com
+deliver-northstar.com
+deliver-parcel.com
 deliver-royalmail.com
 deliveramazon.com
 deliverdhl.com
@@ -16177,14 +16206,91 @@ deliveroffice.com
 deliversc.com
 deliversky.com
 deliversky.ltd
+delivery-access.com
+delivery-accident.email
+delivery-account.com
+delivery-act.com
+delivery-adler.online
 delivery-amazon.com
+delivery-auth1.com
+delivery-bento.com
 delivery-charge-royalmail.com
+delivery-charge-royalmail.com
+delivery-charge.com
+delivery-check.net
+delivery-click.com
+delivery-club.site
+delivery-cluub.site
+delivery-cluud.site
+delivery-d-h-l.com
 delivery-docusign.country
+delivery-drivers.online
+delivery-drone.net
+delivery-elle.com
+delivery-fdx-service.website
+delivery-fdx-service.xyz
 delivery-fedex.com
+delivery-fee.com
+delivery-fees.com
+delivery-fleet.com
+delivery-flow.com
+delivery-foodtech.com
+delivery-fox.online
+delivery-help.com
+delivery-info.xyz
 delivery-issueroyalmail.com
+delivery-issueroyalmail.com
+delivery-italiana.com
+delivery-labs.com
+delivery-link.com
+delivery-mc.site
+delivery-mc.space
+delivery-merchant.site
+delivery-metrics.com
+delivery-moscow01.online
+delivery-moscow02.online
+delivery-moscow03.online
+delivery-moscow04.online
+delivery-moscow05.online
+delivery-moscow06.online
+delivery-moscow07.online
+delivery-moscow08.online
+delivery-moscow09.online
+delivery-moscow10.online
+delivery-moscow15.online
+delivery-moscow16.online
+delivery-moscow17.online
 delivery-office.co.uk
+delivery-ontime.com
 delivery-outlook.net
+delivery-page.online
+delivery-parcel.com
+delivery-partial.com
+delivery-process.com
+delivery-reschedule.com
+delivery-reschedule.info
+delivery-reschedule.net
+delivery-restaurante1.com
+delivery-secure-details0.com
+delivery-secure.com
 delivery-security-dhl-captcha.com
+delivery-security-dhl-captcha.com
+delivery-security-usps-captcha.com
+delivery-shipping.com
+delivery-status.net
+delivery-support.net
+delivery-to.online
+delivery-uk-mail.support
+delivery-uk.store
+delivery-unhair.com
+delivery-update.info
+delivery-updates.com
+delivery-vip.com
+delivery-wallet.online
+delivery-wallet.xyz
+delivery-y.com
+delivery-z.online
+delivery-zone.website
 deliveryamazon.com
 deliveryamazon.online
 deliveryapple.com
@@ -16297,7 +16403,9 @@ desmo2a.xyz
 despacio2000.com
 destinationdelsorbo2022.com
 destino26hostel.com
+destroy-deliver.biz
 desvio-tunelasana.com
+details-delivery-sec1.com
 detectmobilepayments.com
 detlabooking.com
 deutschradio24sieben.com
@@ -16454,6 +16562,7 @@ dhl-delivery.info
 dhl-delivery.ml
 dhl-delivery.net
 dhl-delivery.org
+dhl-deliveryglobal.info
 dhl-express-livraison-colis-france-payment.com
 dhl-expressvietnam.net
 dhl-expressvn.net
@@ -17118,6 +17227,7 @@ dicyionary.com
 didctionary.com
 didgeridoo2a.xyz
 didgoogle.com
+didi-delivery.com
 didongso2021.com
 didtionary.com
 diekichererbsen.com
@@ -17304,6 +17414,7 @@ dioctionary.com
 diocusign.com
 dionnationwide.com
 dioscuresagency.com
+diplomat-delivery.com
 diplompro24.online
 direct-icloudteam.com
 direct-message.club
@@ -17321,6 +17432,7 @@ discoverbiscaynebay.com
 discoverbsg.com
 discoverrbsnk.com
 discriminatingmessageletterto-knowtoday.info
+diseno-delivery.com
 dishlane.com
 diskussionsforum-board-message-id.com
 diskussionsforum-board-message-id.online
@@ -17407,6 +17519,9 @@ djl.vip
 djl.wang
 djl.win
 djmmassages.com
+dk-delivery.info
+dk-delivery.online
+dk-delivery.site
 dksamazon.com
 dky.biz
 dky.co.uk
@@ -17891,6 +18006,9 @@ doxcusign.com
 doxusign.com
 dpaypal.xyz
 dpcusign.com
+dpd-delivery-fee.com
+dpd-redelivery-fee.com
+dpd-schedule-delivery.com
 dpforwhatsapps.com
 dpinterest.com
 dpocusign.com
@@ -18245,6 +18363,7 @@ dsahlane.com
 dsashlane.com
 dscouriercargoservices.com
 dsdhl.xyz
+dse-delivery.com
 dshlane.com
 dsjkdhl.xyz
 dso2040.com
@@ -19197,6 +19316,7 @@ eddit.info
 eddit.net
 eddit.org
 eddymassage.com
+edelivery-directionrenewals.care
 edenhybridoffice.com
 edenoffice.tech
 edex.biz
@@ -19217,6 +19337,7 @@ edex.website
 edhlawncare.com
 edibleartsagency.com
 ediebay.com
+edil-delivery.com
 editing-office.com
 editingsage.com
 editorofthesun.com
@@ -20279,6 +20400,7 @@ erreo2.com
 erreo21.com
 erreo223.com
 erreo23.com
+es-delivery.online
 es-esfacebook.com
 es-esfacebook.net
 es.biz
@@ -20306,6 +20428,7 @@ esana.online
 esana.org
 esana.store
 esana.tk
+escape-delivered.com
 escape-reality-massage-mobile-llc.com
 escapesbookings.com
 escapesmassages.com
@@ -20444,6 +20567,7 @@ europasager.com
 europeanskillsagenda.com
 eutlook.com
 eutrabalhohomeoffice.online
+ev-deliveries.com
 eva-archioffice.com
 evangelinemassage.com
 evangelinesmassage.com
@@ -21834,6 +21958,8 @@ fasebook.org
 fashionextdoor.online
 fashionnextdoor.online
 fashlane.com
+fast-delivery.pro
+fast-flowers-delivery.net
 fastagbooking.com
 fastburnextreme-new.com
 fastest5gbusinessnationwide.com
@@ -21957,6 +22083,7 @@ fecebook.net
 fecebook.org
 fecex.com
 feciex.com
+fed-delivery.online
 fed-ex.com
 fed-ex.info
 fed-ex.net
@@ -21981,6 +22108,7 @@ feddit.org
 feddit.win
 feddx.com
 feddx.ga
+fede-delivery.com
 fede.cf
 fede.co.uk
 fede.com
@@ -22216,6 +22344,7 @@ fedux.com
 fedux.net
 fedux.org
 fedwx.com
+fedx-delivery.com
 fedx.cf
 fedx.co.uk
 fedx.com
@@ -22228,6 +22357,7 @@ fedx.uk
 fedxe.cf
 fedxe.com
 fedzx.com
+fee-delivery.com
 fee-royal-mail.com
 fee-royalmail-parcel.com
 fee-royalmail-uk.com
@@ -22354,6 +22484,7 @@ fhrbs.com
 fhree.co.uk
 fhree.com
 fhree.org
+fi-delivery.online
 fiable-casino231.club
 fibravirgintelco.com
 fibromyalgia-massage-treatment.com
@@ -22584,6 +22715,7 @@ fixthisnextcoachstlouis.com
 fko21.com
 flaggedbyfacebook.com
 flamengo2a.xyz
+flash-express-delivery.com
 flashbeamingofficer.biz
 flashcargosystems.site
 flashnext-s.com
@@ -22624,9 +22756,12 @@ floodzero247.com
 floreriaelmilagro2.com
 floriane-next-step.com
 florianenextstep.com
+florida-cbd-oil-kratom-delivery-service.com
 florsage.com
+flow-delivery.com
 flow-state-massage.com
 floweroffice-moa.com
+flowers--delivery.com
 fluffiesinherbs.com
 flugauto24.com
 fluiditylymphaticmassage.com
@@ -22698,6 +22833,7 @@ fonyebookings.com
 food-dictionary88.com
 foodbookingnewaccount.com
 foodbookingrestaurantsoftware.com
+fooddelivery-search.site
 foodgradeco2.com
 foodonwhatsapp.online
 foodoo2a.xyz
@@ -22730,6 +22866,7 @@ footreflexthaimassage.com
 for-amazon.com
 for-apple.site
 for-booking.site
+for-delivery.site
 for-offices.com
 for-offices.site
 for-usage.site
@@ -22891,6 +23028,7 @@ freshcutkitchenherbs.com
 freshfrozenherbs.com
 freshinthebay.com
 freshintuition.net
+freshly-delivered.net
 friasagencyinc.com
 friedgreenapples.club
 friendly-asian-next-door.site
@@ -23274,6 +23412,7 @@ gayguynextdoor.com
 gayinthebay.com
 gaymassage.company
 gaywestvirginia.com
+gb-mail-delivery.support
 gb-massage.com
 gb-whatsapp.plus
 gbay.cf
@@ -23365,6 +23504,7 @@ genebay.net
 generalconsultationoffice.com
 generaloffice.space
 generaltires-rebayes.com
+generation-deliver.com
 generationnextfertility.net
 generatorbsec.com
 generatorsupercenterofvirginia.com
@@ -23471,6 +23611,9 @@ getransfer.net
 getrealvirginiabeach.com
 getrichuseamazon.com
 getsage.care
+gett-delivery.club
+gett-delivery.com
+gett-delivery.site
 getthemessages.com
 gettingrichwithamazon.com
 getverifiedonfacebook.com
@@ -24456,6 +24599,7 @@ go-daddy.online
 go-daddy.org
 go-daddy.store
 go-daddy.website
+go-deliverycabinet.online
 go-ogle.biz
 go-ogle.co.uk
 go-ogle.com
@@ -27726,6 +27870,7 @@ grnail.tk
 grnail.world
 grnall.com
 groceriesfortheoffice.com
+grocery-delivery-service.site
 grocerystoreapple.com
 groovymessageletterto-perceivetoday.info
 grosso2a.xyz
@@ -28051,6 +28196,7 @@ haibo200.com
 haibo218.com
 haibo258.com
 hainanesedictionary.com
+hair-delivery.com
 hairapyessentialspinterestquiz.com
 hairbeautyintuition.com
 hairfedex.com
@@ -28061,6 +28207,7 @@ hajnextcloudw.com
 hakkido246.com
 hakko2a.xyz
 hakozaki-next.com
+halal-delivery.online
 halalamazon.com
 halalbooking.engineering
 halcyonextras.com
@@ -28428,6 +28575,8 @@ help-apple.com
 help-booking.com
 help-booking.info
 help-booking.top
+help-delivery-payment.support
+help-delivery.support
 help-facebook.com
 help-facebook.gq
 help-facebook.net
@@ -29522,6 +29671,7 @@ hqbc.org
 hqbc.vip
 hqsbc.com
 hqsoffice.com
+hr-delivery.site
 hrbc.biz
 hrbc.co.uk
 hrbc.com
@@ -30858,6 +31008,7 @@ idcloud.top
 idcloud.vip
 idcloud.website
 idctionary.com
+ideal-deliveries.com
 idealoffice.space
 idealslim-amazon.site
 ideassage.website
@@ -32139,6 +32290,7 @@ inrdb.com
 inrtagram.com
 inrtuit.com
 inruit.com
+ins-delivery.com
 ins-tagram.com
 ins.tagram.cf
 ins.tagram.com
@@ -33051,6 +33203,7 @@ interest.world
 interindo2.site
 internalsalesagents.com
 internalsalesagents.net
+international-delivery.xyz
 internationalhealthoffice.online
 internette-amazon.com
 internextllc.com
@@ -34489,6 +34642,7 @@ keylargosmiles.com
 keylargosmilesdental.com
 keylimebayrvresort.com
 keymassager.com
+kfc-delivery.store
 kffice.com
 kfo2.dental
 kfoo2828.icu
@@ -34523,6 +34677,7 @@ kimbostonmassage.com
 kimflightbooking.xyz
 kimsmassages.com
 kinbotescorner.com
+kindred-delivery.com
 kineticloudspeaker.com
 kingcsamaagmail.com
 kingdomsage.net
@@ -34832,6 +34987,7 @@ kymassagejelly.com
 kyotaro2012.com
 kyotokeikyo-office.net
 kytesconsultancyservices.com
+kz-delivery.site
 kzebay.com
 kzepassx.country
 kzgmail.com
@@ -34913,6 +35069,7 @@ lamazonika.com
 lamerceriasantander.com
 landamazon.com
 landsagency.com
+landscape-material-supply-delivery-service-li.biz
 landyournexttechjob.com
 lankedin.com
 lantzassociatescounseling.com
@@ -35435,6 +35592,7 @@ lictionary.info
 lictionary.net
 lictionary.org
 licve.com
+lido-delivery.com
 lie.biz
 lie.co.uk
 lie.com
@@ -35518,6 +35676,7 @@ lige.work
 lightdictionary.com
 lighthousebaynews.com
 lightmessageswithmaria.com
+lightning-delivery.company
 ligve.com
 lihkedin.com
 lihnkedin.com
@@ -37324,6 +37483,7 @@ loanofficerparadise.com
 loansupto250k.com
 lobb1986gmail.cloud
 lobb1986gmail.com
+local-delivery.online
 localisation-icloud.com
 localmassage.info
 localnumero2.com
@@ -37803,6 +37963,7 @@ lyve.website
 lyve.world
 lyxzochmassage.com
 m-appatendimento2.com
+m-delivery.xyz
 m-googlemail.com
 m-office-list-item.com
 m-tr--facebook.com
@@ -37921,6 +38082,12 @@ mail-amazon.work
 mail-apple.cf
 mail-apple.ml
 mail-booking.com
+mail-deliver-uk.support
+mail-deliver.support
+mail-delivery-info.support
+mail-delivery-uk-help.support
+mail-delivery-uk.support
+mail-delivery.support
 mail-dhl.co.uk
 mail-dhl.com
 mail-dhl.ga
@@ -38613,6 +38780,7 @@ mauto2a.xyz
 mavoo24.com
 mavro-office.info
 maweicloud.com
+max-deliveroo.com
 maxcargoshipping.com
 maxdo24h.com
 maximamassage.com
@@ -38665,8 +38833,12 @@ mbay.net
 mbay.org
 mbbcthree.xyz
 mbherbs.com
+mc-delivery.site
+mc-delivery.space
+mc-delivery.website
 mccartylawoffices.com
 mccoylawofficenc.com
+mcdelivery-hk.com
 mchildslawoffice.com
 mcirosoft.biz
 mcirosoft.co.uk
@@ -38704,6 +38876,7 @@ mcxt.cf
 mcxt.com
 mcxt.ml
 mcxt.tech
+md-delivery.site
 mdb.co.uk
 mdb.com
 mdb.info
@@ -38741,6 +38914,7 @@ me.uk
 me.vip
 me.work
 meadowsmassagetherapy.com
+meal-delivery.online
 mealnextdoor.net
 meassagebommer.com
 meatvirginia.com
@@ -38856,6 +39030,7 @@ mensagenspowerpoint.com
 menssunglassesamazon.com
 mentesconstrotora.com
 mentormenext.com
+menu-deliver.com
 meo-bmeforgoogle.com
 meonoffice.com
 mepamazon.com
@@ -39145,6 +39320,7 @@ mgrsportsagency.com
 mhcrosoft.com
 mhermes.co.uk
 mhermes.com
+mhk-delivery.com
 mhrc.biz
 mhrc.co.uk
 mhrc.com
@@ -40285,6 +40461,7 @@ mikrosoft.ml
 mikrosoft.org
 mikrosoftonline.com
 milakioffice.bid
+milbon-delivery.com
 milbylawoffices.com
 mildredvirginia.com
 mile-himedicalmassage.com
@@ -40313,6 +40490,7 @@ milliondollavirgin.com
 millisavunmasanayii.com
 millplainofficepark.com
 millrunoffice.com
+mills2008-delivery.com
 milpitasagent.com
 mimidybs.com
 mimoko21.com
@@ -40429,6 +40607,8 @@ misplaced-package-royalmail.com
 misrosoft.com
 misrosoftonline.com
 missdianasmessage.com
+missed-delivery-charge.com
+missed-delivery-fee.com
 missepbookingfirm.com
 missgpmassagetherapyspa.com
 missinglinkfinesausages.com
@@ -40729,6 +40909,7 @@ mobileyodel.com
 mobileyoutube.com
 mobiphonebay.com
 mobjackbayvirginia.com
+mochef-delivery.com
 mocrosoft.cf
 mocrosoft.com
 mocrosoft.ga
@@ -41128,6 +41309,7 @@ my-office.vip
 my-office365.com
 my-office365.net
 my-outlook.com
+my-parcel-delivery-confirmation.com
 my-paypal.biz
 my-paypal.com
 my-paypal.info
@@ -41837,6 +42019,9 @@ myoutlook.net
 myoutlook.org
 myoutlook.org.uk
 myoutlookmails.com
+myparcel-confirmation-delivery.com
+myparcel-delivery-confirmation.com
+myparcel-delivery-fees.com
 myparcelfee-royalmail.com
 myparcels-royal-mail.com
 mypassage.xyz
@@ -41872,6 +42057,7 @@ myreddit.com
 myreddit.store
 myresourceoffice.com
 myroyalmail-customsfee.com
+myroyalmail-delivery-fees.com
 myroyalmail-delivery-fees.com
 myroyalmail-fees-payment.com
 myroyalmail-fees.com
@@ -42156,6 +42342,7 @@ nakasu-three.com
 nakata-cpaoffice.com
 nakathaimassagewollicreek.com
 nalco2a.xyz
+nalojka-delivery.site
 namapple.com
 namastemassagespa.com
 namastescottsdale.com
@@ -43691,6 +43878,7 @@ newonlinecasino2018.com
 neworleanslalegaloffice.com
 newpathsmassage.com
 newportricheymassagetherapy.com
+news-deliveryman.com
 newsagency.online
 newsagency.site
 newsagencylive.com
@@ -45992,6 +46180,7 @@ niftygoogle.com
 niftytwitter.com
 nigeriaoutlook.com
 nigeriapropertyoffice.com
+night-delivery.com
 nightynitesco.com
 nihao2046.com
 nihongo202.com
@@ -46248,7 +46437,9 @@ notice-online-wells-fargos.com
 noticeamazonidseronline.tech
 notificacao2.net
 notifications-google.com
+notificationsdigital-delivery.com
 notificatoinintuit.com
+notify-delivery.com
 notify-icloud.com
 notifygmail.com
 notiificatoinintuit.com
@@ -47157,6 +47348,7 @@ odaddy.info
 odaddy.net
 odaddy.org
 odafone.com
+odawara-delivery.com
 odcusign.com
 odel.cf
 odel.co.uk
@@ -49245,6 +49437,7 @@ onnofficeline.com
 onofficeworkcenter.com
 onpage-amazon.com
 onpointmassagesa.com
+onroute-delivery.com
 onstagram.cf
 onstagram.com
 onstagram.ga
@@ -49488,6 +49681,7 @@ osservatorio231.com
 ossobuco2go.com
 ostrichoffice.com
 otago2a.xyz
+otello-delivery.com
 otfice.com
 otherbs.com
 othersocialmediauponrequestoutlook.com
@@ -50006,6 +50200,7 @@ ovaloffice.club
 ovalofficeadvisors.com
 ovalofficemilton.com
 oventrybuildingsociety.co.uk
+overdeliver-everything.com
 overtimemassage.com
 ovfice365.com
 ovio2a.xyz
@@ -50113,7 +50308,9 @@ pachucodictionary.com
 pacificloudit.com
 package-booking.com
 package-booking.org
+package-delivery.support
 package-dhl.com
+package-for-redelivery-attempt.com
 packagebooking.com
 packagebooking.org
 packagedropbox.com
@@ -50199,6 +50396,7 @@ pampermemassage.com
 pamsagerlaw.com
 pan-amazon.com
 panaderiaaztecamexico2.com
+pandelivery-kh.com
 pandhlashes.com
 pandoraoffice.com
 panoramio2a.xyz
@@ -50206,7 +50404,11 @@ panterest.com
 pantheonextracts.com
 panto2a.xyz
 pao222.com
+papa-delivery.com
+papa-delivery.me
+papa-delivery.online
 papadakilawoffice.com
+papajohns-delivery.net
 papal.cf
 papal.co.uk
 papal.com
@@ -50237,17 +50439,27 @@ paradisecasino2a.xyz
 paradiseresortbooking.com
 parallexcambridge.com
 parashopperero24.com
+parcel-confirmation-delivery.com
+parcel-deliver.com
+parcel-delivery-confirmation.com
+parcel-delivery-date.com
+parcel-delivery-online.delivery
 parcel-dhl.com
 parcel-drop-box.co.uk
 parcel-drop-box.com
 parcel-drop-box.uk
 parcel-fee-royalmail.com
+parcel-for-redelivery-attempt.com
+parcel-redelivery-attemp-ref018.com
+parcel-redelivery-attemp.com
+parcel-redelivery-unpaid.com
 parcel-royal-mail.com
 parcel-royalmail-fee.com
 parcel-royalmail.com
 parcelapple.com
 parcelbooking.co.uk
 parcelbooking.com
+parceldelivery-status.com
 parceldhl.co.uk
 parceldhl.com
 parceldropbox.co.uk
@@ -50259,6 +50471,7 @@ parceloffice.co.uk
 parceloffice.com
 parceloffice.net
 parcelroyalmail.com
+parcels-delivery.support
 parcels-royalmail.com
 parcelsky.com
 parenaebayshoresalesoms.xyz
@@ -50368,7 +50581,11 @@ pay-amazon.com
 pay-apple.com
 pay-barclays.com
 pay-booking.com
+pay-delivery-fee.delivery
+pay-delivery-fee.support
 pay-delivery-royalmail.com
+pay-delivery-royalmail.com
+pay-delivery.website
 pay-dhl.com
 pay-ebay.com
 pay-google.com
@@ -50493,6 +50710,8 @@ paybswap.exchange
 paybswap.finance
 payco2.com
 paydaybsh.com
+paydelivery-fee.com
+paydelivery-fees.com
 paydhl.com
 paydhl.net
 payebay.com
@@ -50549,6 +50768,7 @@ payment-amazon.com
 payment-amazon.net
 payment-amazon.world
 payment-booking.com
+payment-delivery.com
 payment-dhl.cf
 payment-dhl.ga
 payment-dhl.gq
@@ -51437,6 +51657,7 @@ pekicloud.com
 pellasana.com
 pemasanan.online
 pendikapple.com
+pending-deliveryfee-helpdesk.com
 pendo2a.xyz
 penguin-office.com
 penguin-office.net
@@ -52339,6 +52560,7 @@ posdicarbsocial.website
 posicionamientogoogle.net
 positiveenergyactivatesconstantelevation.energy
 post-amazon.com
+post-deliver.com
 post-message-letter-to-observe-today.info
 post-officebox.com
 post1app-dhl.com
@@ -52487,6 +52709,7 @@ pridenext.com
 prim-amazon.com
 prima-amazon.com
 primarymessagelettertoviewtoday.info
+prime-delivery-collective.com
 prime-design-office.com
 prime-netflix.com
 primeamazon-amazon.com
@@ -52550,6 +52773,7 @@ prodjsbooking.com
 prodo2a.xyz
 producerboxoffice.co.uk
 producerboxoffice.uk
+product-delivery.net
 productoffice.store
 productofficehours.com
 productosamazon.site
@@ -54020,7 +54244,10 @@ rds.uk
 rds.website
 rds.win
 rds.world
+re-arrange-delivery.com
 re-arrange-missed-delivery-royal-mail.com
+re-arrange-missed-delivery-royal-mail.com
+re-deliver.com
 re.accountants
 re.biz
 re.co.uk
@@ -54067,6 +54294,7 @@ realtormessage.com
 realvegasagents.com
 realyoutubeview.com
 rearrange-royalmail.com
+reattempt-delivery.com
 rebalance-massage.com
 rebayh.com
 rebbit.com
@@ -54424,7 +54652,24 @@ rededit.ml
 redeinstagram.com
 redeit.com
 redelit.com
+redeliver-fee.com
+redeliver-online.com
+redeliver-parcel.com
+redeliver-pay.com
 redeliver-royalmail.com
+redeliver-your-parcel.com
+redelivery-alert.com
+redelivery-alerts.com
+redelivery-attempt.com
+redelivery-authorization.com
+redelivery-fee-parcel.com
+redelivery-fee.com
+redelivery-parcel-attempt-ref0.com
+redelivery-payment.com
+redelivery-ref013-attempt.com
+redelivery-tracker.com
+redelivery-uk-rm.com
+redelivery-unpaidservice.com
 redex.biz
 redex.cf
 redex.co.uk
@@ -54496,6 +54741,8 @@ reedit.net
 reedsgumtreebookstore.com
 reeldit.com
 reevo2a.xyz
+ref01-redelivery-attempt.com
+ref07-redelivery-attempt.com
 refddit.com
 refdit.com
 reformapplevalley.com
@@ -54623,6 +54870,12 @@ repsly2sage.com
 requirement-radical-officer.xyz
 rerddit.com
 rerdit.com
+resched-delivery.info
+reschedule-delivery-package.com
+reschedule-delivery.net
+reschedule-delivery.xyz
+reschedule-deliverydpd.com
+reschedule-package-delivery.com
 reschedule-royalmail.info
 resco.biz
 resco.co.uk
@@ -54682,6 +54935,7 @@ revelcreationpaysage.com
 revenuegrowthoffice.com
 reversalramazon.com
 reverseretro2021.online
+review-delivery.com
 reviewbooking.com
 reviewebay.com
 reviewmassages.com
@@ -54839,6 +55093,7 @@ riobet-casino2.xyz
 riolotwitter.com
 rionthebay.com
 rioyalmail.com
+rip-delivery.com
 ripmessages.com
 rippinpineapple.com
 ririo210.com
@@ -54908,6 +55163,16 @@ rlds.org
 rlds.tk
 rlds.uk
 rlpcambridgekwblog.com
+rm-delivery-info.com
+rm-delivery-update.com
+rm-deliveryfee.com
+rm-deliverypay.com
+rm-parcel-delivery.com
+rm-redelivery-uk2.com
+rm-uk-delivery-fees.com
+rm-uk-delivery1.com
+rmail-fee-delivery-payment.com
+rmail-pay-delivery-fee.com
 rmb-amazonfr-client.info
 rmicrosoft.com
 rmicrosoft.org
@@ -54971,6 +55236,8 @@ rns.uk
 rns.win
 rns.world
 rnyhernes.work
+ro-delivery.site
+ro-delivery.space
 ro-rofacebook.com
 ro-rofacebook.net
 ro.yalmail.com
@@ -55045,6 +55312,7 @@ roombookingsite.com
 roombookingwebsite.com
 rootedmassageandbody.com
 rootmassagehvl.com
+rootsandrolls-delivery.com
 rootsofcreationmassage.com
 rooyalmail.com
 ropbox.co.uk
@@ -55093,19 +55361,28 @@ roya.lmail.top
 roya.lmail.uk
 roya.lmail.website
 roya.lmail.work
+roya1-ma1l-delivery.com
 royaalmail.com
+royail-mail-delivery-info.com
+royailmail-secure-delivery.com
 royaimaii.co.uk
 royaimaii.online
 royaimail.com
 royakmail.com
+royal-delivery.support
 royal-mail-additional-fee.com
 royal-mail-customfee.com
 royal-mail-deliver.com
+royal-mail-deliver.com
 royal-mail-delivery-fee.com
 royal-mail-delivery-servicesupport.com
+royal-mail-delivery-servicesupport.com
+royal-mail-delivery1.com
 royal-mail-delivery1.com
 royal-mail-deliverycharge.com
 royal-mail-deliveryservice-alert.com
+royal-mail-deliveryservice-alert.com
+royal-mail-deliveryservice-support.com
 royal-mail-deliveryservice-support.com
 royal-mail-direct.com
 royal-mail-fee-due.com
@@ -55122,6 +55399,7 @@ royal-mail-myparcels.com
 royal-mail-notice.com
 royal-mail-package-pending.support
 royal-mail-parcel-delivery.com
+royal-mail-parcel-delivery.com
 royal-mail-parcel-fees.com
 royal-mail-parcel-support.com
 royal-mail-parcel.online
@@ -55133,6 +55411,7 @@ royal-mail-payfee.com
 royal-mail-payment.com
 royal-mail-payments.com
 royal-mail-process.com
+royal-mail-redelivery-uk.com
 royal-mail-redelivery-uk.com
 royal-mail-redelivery.com
 royal-mail-redelivery.online
@@ -55170,6 +55449,9 @@ royal-mails.com
 royal-mailsupports.com
 royal-mailupdate.com
 royal-office.com
+royal-redeliver-uk.com
+royal-redelivery-ltd.com
+royal-redelivery-uk.com
 royal.mail.accountants
 royal.mail.co.uk
 royal.mail.download
@@ -55233,27 +55515,45 @@ royalmail-confirmpay.com
 royalmail-confirmpayment.com
 royalmail-deliver.com
 royalmail-deliver.support
+royalmail-deliver.support
+royalmail-deliveries.support
 royalmail-deliveries.support
 royalmail-delivering.com
+royalmail-delivering.com
+royalmail-delivery-charge-payment.com
 royalmail-delivery-charge-payment.com
 royalmail-delivery-fee.com
+royalmail-delivery-fee.com
+royalmail-delivery-fees.com
 royalmail-delivery-fees.com
 royalmail-delivery-reschedule.com
+royalmail-delivery-uk.com
 royalmail-delivery-uk.com
 royalmail-delivery.cf
 royalmail-delivery.com
 royalmail-delivery.ga
 royalmail-delivery.info
+royalmail-delivery.info
 royalmail-delivery.ml
 royalmail-deliveryfee-helpdesk.com
+royalmail-deliveryfee-helpdesk.com
+royalmail-deliveryfee.com
 royalmail-deliveryfee.com
 royalmail-deliveryfee.info
+royalmail-deliveryfee.info
+royalmail-deliveryfee.xyz
 royalmail-deliveryfee.xyz
 royalmail-deliveryfees.com
+royalmail-deliveryfees.com
+royalmail-deliveryfees.info
 royalmail-deliveryfees.info
 royalmail-deliveryfees.online
+royalmail-deliveryfees.online
+royalmail-deliverypayment.com
 royalmail-deliverypayment.com
 royalmail-deliverysuppport.com
+royalmail-deliverysuppport.com
+royalmail-deliveryupdate.com
 royalmail-deliveryupdate.com
 royalmail-direct.delivery
 royalmail-dispatch.com
@@ -55261,6 +55561,7 @@ royalmail-dispatch.delivery
 royalmail-dispatch.support
 royalmail-en-gb.com
 royalmail-fee-alert-uk.com
+royalmail-fee-delivery.com
 royalmail-fee-delivery.com
 royalmail-fee-helpcentre.com
 royalmail-fee-helpservice.com
@@ -55284,6 +55585,8 @@ royalmail-feesupport.com
 royalmail-feeuk.com
 royalmail-gb-attempt.com
 royalmail-gb-delivery.com
+royalmail-gb-delivery.com
+royalmail-gb-deliveryfee.com
 royalmail-gb-deliveryfee.com
 royalmail-gb-secure.com
 royalmail-gb.xyz
@@ -55322,6 +55625,7 @@ royalmail-packagehelp.com
 royalmail-packageroute.com
 royalmail-packages.net
 royalmail-parcel-delivery.com
+royalmail-parcel-delivery.com
 royalmail-parcel-fees.com
 royalmail-parcel-redelivery.info
 royalmail-parcel-support.com
@@ -55339,6 +55643,7 @@ royalmail-parcelshipping.com
 royalmail-parceltracker.com
 royalmail-parceluk.com
 royalmail-pay-deliveryfee.com
+royalmail-pay-deliveryfee.com
 royalmail-pay-fee.com
 royalmail-pay-fees.com
 royalmail-pay-now.com
@@ -55347,6 +55652,7 @@ royalmail-pay.online
 royalmail-pay.support
 royalmail-payfee.support
 royalmail-paynow.com
+royalmail-pending-delivery.com
 royalmail-pending-delivery.com
 royalmail-post.com
 royalmail-post.delivery
@@ -55359,13 +55665,17 @@ royalmail-postal.support
 royalmail-postfee.com
 royalmail-process.com
 royalmail-re-delivery.com
+royalmail-re-delivery.com
 royalmail-re.delivery
 royalmail-rearrange.delivery
 royalmail-rearrange.support
 royalmail-reattempt.com
 royalmail-redeliveries.support
 royalmail-redelivery-help.com
+royalmail-redelivery-help.com
 royalmail-redelivery-online.com
+royalmail-redelivery-online.com
+royalmail-redelivery-shippingfee.com
 royalmail-redelivery-shippingfee.com
 royalmail-redelivery.info
 royalmail-redeliveryfee.com
@@ -55377,6 +55687,7 @@ royalmail-redirect.delivery
 royalmail-redirect.support
 royalmail-reissueparcel.com
 royalmail-repostage.com
+royalmail-reschedule-delivery.com
 royalmail-reschedule-delivery.com
 royalmail-reschedule-package.com
 royalmail-reschedule-payment.com
@@ -55496,6 +55807,8 @@ royalmailcourier.com
 royalmailcustomerredeliveryportal.com
 royalmailcustomerredeliveryportal.delivery
 royalmaildelivery-fees.com
+royalmaildelivery-fees.com
+royalmaildelivery-support.com
 royalmaildelivery-support.com
 royalmaildelivery.com
 royalmaildeliveryfailed-uk.com
@@ -55561,6 +55874,7 @@ royalmailuk-payfee.com
 royalmailuk-payments.com
 royalmailuk-redeliver.com
 royalmailuk-redelivery-fee.com
+royalmailuk-redelivery-fee.com
 royalmailuk-redirect.com
 royalmailuk-shippingfee.com
 royalmailuk.com
@@ -55623,6 +55937,7 @@ royilmail.com
 royilmail.country
 roylamail.com
 roylmail.com
+roymail-deliveryfee.support
 royolmail.com
 royqlmail.com
 roysalmail.com
@@ -56006,6 +56321,7 @@ safegoogle.net
 safegov.com
 safegov.net
 safegov.org
+safeguard-delivery.com
 safeicloud.com
 safeinstagram.cf
 safeinstagram.gq
@@ -56956,6 +57272,8 @@ sambridge.co.uk
 sambridge.com
 sambridge.uk
 same-office.com
+sameday-delivery.com
+sameday-delivery.net
 samedaycurbside.com
 samethree.com
 samntander.com
@@ -57957,6 +58275,8 @@ sch.work
 sch.world
 sch.xin
 schedu-next.com
+schedule-parcel-delivery.com
+schedule-redelivery-date.com
 schelp.biz
 schelp.co.uk
 schelp.com
@@ -58476,6 +58796,7 @@ sdnextlevel.com
 sdnextleveldevelopment.com
 sdxfdhl.com
 sdybsc.xyz
+se-delivery.online
 se.biz
 se.co.uk
 se.com
@@ -58615,6 +58936,7 @@ securebooking.online
 securebooking.org
 securebooking.uk
 securebooking.website
+secured-delivery-purchases-order.com
 securedcargoservices.com
 securedhl.com
 securedocusign.com
@@ -58984,6 +59306,8 @@ service-apple.net
 service-booking.co.uk
 service-booking.com
 service-deliverydhl-d-h-l-delivery.com
+service-deliverydhl-d-h-l-delivery.com
+service-deliverydhld-h-l-delivery.com
 service-deliverydhld-h-l-delivery.com
 service-dhl-ssosecure.com
 service-dhl.com
@@ -63022,6 +63346,7 @@ tezco.tech
 tgadamazon.club
 tgadamazon.online
 tgadamazon.xyz
+tgal-delivery.com
 tgamazon.com
 tgeguardian.com
 tgesun.co.uk
@@ -65499,6 +65824,12 @@ tilktalk.com
 tilnexttimemysalononline.com
 tiltedpineappledesigns.com
 timberpinesagent.com
+time-delivery.online
+time-delivery01.online
+time-delivery02.online
+time-delivery03.online
+time-delivery04.online
+time-delivery05.online
 timeherbschool.com
 timelinefortrello.tech
 times-massage.com
@@ -65870,8 +66201,10 @@ tofmassagetherapy.com
 tokendictionary.com
 tokenextreme.com
 tokenizeamazon.com
+toko-delivery.com
 tokonetflix.site
 tokowhatsapp.net
+toktok-delivery.com
 tokureo222.com
 tokyo2020-news.com
 tokyo2020app.com
@@ -66006,8 +66339,10 @@ tosetupamazonemail.club
 tosho-office.com
 tosino2.com
 totalgrapplesolutions.com
+totally-reliable-delivery-service.com
 totalofficetoolbox.com
 totalrelaxmassagespa.com
+toto-delivery.com
 toto201.com
 totobo2.net
 totobo2giris.com
@@ -66060,6 +66395,7 @@ tqc1799zkj841ahe66v27o20lu4r3px5.xyz
 tqitter.com
 tqwitter.com
 tr-az-facebook.com
+tr-delivery.online
 tr-ff-facebook.com
 tr-hsbc.com
 tr-tr-ffacebook.com
@@ -66077,6 +66413,7 @@ trabalhedecasanaweb.com
 trabalhodigitadoronlinehomeoffice.com
 trabalhoremoto2021.com
 track-apple.ga
+track-delivery-colis.com
 track-dhl.com
 track-ebay.co.uk
 track-fedex.com
@@ -66085,6 +66422,7 @@ track-my-royalmail.info
 track-myparcels-royalmail.info
 track-office.com
 track-sc.com
+track-your-delivery.info
 trackamazon.com
 trackamazon.ga
 trackapple.com
@@ -66106,7 +66444,9 @@ trackgoogle.com
 trackgov.com
 tracking-mydhl.com
 tracking-redelivery-royalmail.com
+tracking-redelivery-royalmail.com
 tracking-royalmail.com
+tracking-service-delivery.com
 trackingfedex.com
 tracklive.co.uk
 tracklive.com
@@ -66509,6 +66849,7 @@ tuesun.com
 tuitter.com
 tuitter.net
 tulasanmassage.com
+tulip-delivery.online
 tumtree.com
 tumtree.life
 tumtree.net
@@ -67151,6 +67492,7 @@ tzesun.com
 tzhao2003.com
 u-google.com
 u-googlemail.com
+u-s-p-s-delivery.com
 u1397hvgci80bs80t5k275fo21j4qa6x.xyz
 u1namazonaws.com
 u2.biz
@@ -67169,6 +67511,8 @@ u64f7wi0408vldyq51k2963o2h3r8jte.xyz
 u8yeu6ldxo2xzj.com
 ua-icloud.com
 uacurbs.com
+uae-delivery.pizza
+uae-deliverypizza.com
 uae-hsbc.com
 uaeapple.net
 uaeofficesolutions.com
@@ -67271,6 +67615,8 @@ uk-autotrader.online
 uk-barclays.co.uk
 uk-barclays.com
 uk-booking.com
+uk-delivery-fee.com
+uk-delivery.com
 uk-dhl.com
 uk-ee.co.uk
 uk-ee.com
@@ -67329,6 +67675,7 @@ ukbarclays.com
 ukbooking.co.uk
 ukbooking.ga
 ukbooking.ml
+ukdelivery-help.com
 ukdhl.com
 ukdictionary.com
 ukebay.co.uk
@@ -67559,6 +67906,7 @@ update-amazon.top
 update-amazon.world
 update-amazonn.com
 update-booking.net
+update-delivery.com
 update-dpukvxullwp-netflix.com
 update-dropbox.com
 update-ee.com
@@ -67842,6 +68190,7 @@ usnetflix.xyz
 usoamissvirginia.com
 uspaypal.com
 uspaypalauth.com
+uspsdelivery-service.com
 uspsgmaill.com
 uss-amazon-ea.com
 uss-amazon-ed.com
@@ -67947,6 +68296,8 @@ vanlochemvirtualoffice.com
 vano2a.xyz
 vanphongfacebook.com
 vanyao2021.com
+vape-delivery.com
+vape-delivery.net
 vapenext.com
 vaporisaherbs.com
 vapple-store.com
@@ -68008,6 +68359,7 @@ vegasbunnymassage.com
 vegasluckymassage.com
 vegasmassage.store
 vegherbs.com
+vehicle-delivery.net
 veho2a.xyz
 velo24mpay.online
 velvetsageco.com
@@ -68090,6 +68442,7 @@ verify-apple.com
 verify-apple.info
 verify-appleid.com
 verify-currys.country
+verify-delivery.com
 verify-dropbox.com
 verify-ee.net
 verify-facebook.cf
