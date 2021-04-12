@@ -9426,8 +9426,6 @@ aws.amazon-verify.net
 aws.amazon-web.com
 aws.amazon-web.net
 aws.amazon-www.com
-aws.amazon.co.uk
-aws.amazon.com
 aws.amazon.kim
 aws.amazon.org.uk
 aws.amazona.com
