@@ -13161,7 +13161,6 @@ cdhlwc.xyz
 cdhoffice.com
 cdhoffices.com
 cdn-amazon.com
-cdn-apple.com
 cdn-apple.net
 cdn-apple.org
 cdn-facebook.cf
@@ -26349,9 +26348,7 @@ google.gdn
 google.gq
 google.info
 google.ml
-google.net
 google.online
-google.org
 google.org.uk
 google.space
 google.store
@@ -31538,7 +31535,6 @@ imsb.org
 imsb.tk
 imsb.trade
 imsdb.co.uk
-imsdb.com
 imsilkrmassage.online
 imstagram.com
 imstagram.ga
@@ -50020,7 +50016,6 @@ outlookmail.org
 outlookmail.space
 outlookmail.work
 outlookmaillist.com
-outlookmobile.com
 outlookmobile.net
 outlookmobile.org
 outlookn.com
