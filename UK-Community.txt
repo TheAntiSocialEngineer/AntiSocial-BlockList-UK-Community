@@ -1272,7 +1272,6 @@ ac.gdn
 ac.link
 ac.ml
 ac.net
-ac.uk
 ac.vip
 ac.work
 academy-nextlevel.com
