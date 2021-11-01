@@ -21170,7 +21170,6 @@ facebook.info
 facebook.loan
 facebook.ml
 facebook.mom
-facebook.net
 facebook.online
 facebook.org
 facebook.org.uk
@@ -36514,7 +36513,6 @@ live.life
 live.link
 live.ltd
 live.mom
-live.net
 live.org
 live.org.uk
 live.racing
@@ -71129,7 +71127,6 @@ whatsapp.loan
 whatsapp.ltd
 whatsapp.ml
 whatsapp.mom
-whatsapp.net
 whatsapp.online
 whatsapp.org
 whatsapp.org.uk
