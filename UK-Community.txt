@@ -28984,7 +28984,6 @@ hkrc.net
 hkrc.org
 hl.biz
 hl.co.uk
-hl.com
 hl.fit
 hl.life
 hl.link
@@ -38126,7 +38125,6 @@ mail-reply-officework-secure-protections-inbound-netsuite.com
 mail-reply-officework-secure-protections-inbound-netsuite.store
 mail-reply-proctect-secrect-outlook-managment-proctection.com
 mail-sage.com
-mail-sc.com
 mail-sc.net
 mail-sky.com
 mail-supported-amazon.com
