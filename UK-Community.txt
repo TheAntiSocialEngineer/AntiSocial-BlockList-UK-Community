@@ -26619,8 +26619,6 @@ googlem.net
 googlemachinelearning.com
 googlemail.biz
 googlemail.cf
-googlemail.co.uk
-googlemail.com
 googlemail.ga
 googlemail.gq
 googlemail.info
@@ -27475,13 +27473,11 @@ govm.info
 govm.net
 govm.org
 govm.top
-govmail.co.uk
 govmail.com
 govmail.info
 govmail.net
 govmail.org
 govmail.tk
-govmail.uk
 govmobile.co.uk
 govmobile.com
 govmobile.link
