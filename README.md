@@ -1,4 +1,5 @@
-# DECOMMISSION NOTICE - The AntiSocial Blocklist will be decommissioned on 30th September 2025.
+# DECOMMISSION NOTICE
+# The AntiSocial Blocklist will be decommissioned on 30th September 2025.
 
 # AntiSocial-BlockList-UK-Community
 Get the AntiSocial BlockList, this is a free, UK centric version of our paid blocklisting service.
