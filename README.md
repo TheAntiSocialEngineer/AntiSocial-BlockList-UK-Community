@@ -1,5 +1,9 @@
 # DECOMMISSION NOTICE
-The AntiSocial Blocklist will be decommissioned on 30th September 2025.
+The AntiSocial Blocklist was officially decommissioned on 30th September 2025.
+
+All supporting servers and dependencies have been shut down, and the project is no longer maintained or updated.
+
+This repository will remain available on GitHub for reference, but it will not receive any further support or servicing.
 
 # AntiSocial-BlockList-UK-Community
 Get the AntiSocial BlockList, this is a free, UK centric version of our paid blocklisting service.
